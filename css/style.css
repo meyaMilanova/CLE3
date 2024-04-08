@@ -234,13 +234,14 @@ main {
 }
 
 .order-now-img{
-
+    width: 30vw;
+    height: auto;
 }
 
 h2 {
     z-index: 1;
     position: absolute;
-    color: #DBDBDB;
+    color: #b5b5b5;
     font-size: 6.8em;
     font-family: "Archivo Black", sans-serif;
     line-height: 1em;
