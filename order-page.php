@@ -69,7 +69,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
 <header class="all-header">
     <nav id="nav-section">
         <img src="img/Logo_Teal.png">
-        <a class="buttons" id="nav-button" href="landing-page.php">Terug naar Home</a>
+        <a class="buttons" id="nav-button" href="index.php">Terug naar Home</a>
     </nav>
 </header>
 <body>

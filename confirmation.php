@@ -10,7 +10,7 @@
 </head>
 <header id="confirmation-header">
     <img src="img/Logo_Teal.png">
-    <a class="buttons-tp" href="landing-page.php">Terug naar Home</a>
+    <a class="buttons-tp" href="index.php">Terug naar Home</a>
 </header>
 <body id="confirmation-body">
 <div id="confirmation-main">
