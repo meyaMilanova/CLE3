@@ -25,14 +25,14 @@
                 ducimus ea est et eveniet excepturi
                 minus mollitia necessitatibus.</p>
         </div>
-        <img src="img/Photo-1.png" class="header-img">
+        <img src="img/Group%2020%20(1)%20(1).png" class="header-img">
     </div>
 </header>
 <body>
 <div class="all-body">
     <main>
         <section class="product-info-section">
-            <img src="img/Photo-2.png" class="order-now-img">
+            <img src="img/motionWing4.jpg" class="order-now-img">
             <h2>Hoe werkt de <span class="dark-blue-text"> <br>Motion Wing</span></h2>
             <div class="order-now-div">
                 <p class="order-now-text">Lorem ipsum dolor sit amet, consectetur
